@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Aliaksandr Liutsko - Game Developer
-email: alexandr.liutsko@gmail.com
+title: David Ajanjan - Game Developer
+email: gamesdevriddec@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Explore the creative world of Aliaksandr Liutsko, a dedicated game developer focused on crafting unique and engaging
-  experiences for children. Discover our exciting range of games and stay informed about our user-focused policies.
+  Explore the creative world of David Ajanjan, an indie game developer with a passion for creating fun and 
+  engaging experiences for players of all ages.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://lut1k.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: lut1k
+url: "https://gamesdevriddec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: gamesdevriddec
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
@@ -34,7 +34,7 @@ plugins:
   - jekyll-remote-theme
 
 # GitHub Pages settings
-repository: lut1k/lut1k.github.io
+repository: gamesdevriddec/gamesdevriddec.github.io
 
 # Exclude from processing.
 # The following items will not be processed, by default.
