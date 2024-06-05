@@ -4,7 +4,7 @@ layout: default
 
 # Privacy Policy
 
-_Last Updated: 28.01.2024
+_Last Updated: 06.05.2024
 
 ## Introduction
 
